@@ -1,0 +1,336 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+   background: url(/Img/Home\ page.png);
+   height: 100vh;
+   width: 100%;
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+header .btn-area{
+    background-color: #fff;
+}
+header .navbar a{
+    color: #c9eeaf;
+}
+header .navbar .active{
+    color: #fff;
+    
+}
+
+
+header .btn-area a{
+    color: #62ae2f;
+    font-size: 16px;
+}
+header .my-text{
+    margin-top: 45%;
+    transform: translateY(-50%);
+    margin-left: 100px;
+}
+header .my-text h5{
+    color: #62ae2f;
+    font-size: 31px;
+}
+header .btn-area h3{
+    color: #303130;
+    font-size: 45px;
+    font-weight: 600;
+}
+header .last img{
+    margin-top: 439px;
+    margin-left: 570px;
+}
+
+header .last{
+    background: url(/Img/1.png);
+    left: 0;
+    bottom: 0;
+    
+    margin-left: -160px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header .extra{
+    margin: 0 auto;
+    
+    background-color: #fff;
+    text-align: center;
+    
+}
+header select{
+    border: none;
+    outline: none;
+}
+
+
+header .extra .second{
+    display: block;
+    margin-left: 76px !important;
+    margin-right: 120px;
+}
+header .extra .btn{
+    background-color: #62ae2f;
+    display: flex;
+    align-items: center;
+}
+header .extra .btn a{
+    color: #fff;
+    text-transform: uppercase;
+    
+    
+}
+header .extra label{
+    color: #62ae2f;
+}
+
+#welcome{
+    margin-top: 100px;
+}
+.head-text h2{
+    color: #303130;
+    font-size: 50px;
+    font-weight: 600;
+}
+.head-text p{
+    color: #737373;
+    font-size: 20px;
+}
+#welcome .left{
+    margin-top: 50px;
+}
+#welcome .left p{
+    margin: 20px 0px;
+}
+.head-text img{
+    margin: 20px 0px;
+}
+#welcome .right img{
+    width: 100%;
+}
+#welcome .btn-area .btn1{
+    background-color: #62ae2f;
+    color: #fff;
+    
+}
+#welcome .left h3{
+    font-size: 30px;
+    color: #303130;
+    margin-right: 10px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+#welcome .btn-area .btn2{
+    margin-left: 50px;
+    background: none;
+    color: #62ae2f;
+    border: 2px solid #62ae2f;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+#product{
+    margin-top: 50px;
+}
+#product .btn-area{
+    margin: 30px 0px;
+}
+#product .btn{
+    color: #62ae2f;
+    border: 2px solid #62ae2f;
+    padding: 5px 50px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+#product .btn-d{
+    color: #fff;
+    background-color: #62ae2f;
+    border: 2px solid #62ae2f;
+    padding: 6px 5px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+#product .btn-area span{
+    color: #62ae2f;
+    font-weight: 600;
+}
+
+#product .card-body .head{
+    display: flex;
+    justify-content: space-between;
+}
+#product .card-body .head .btn{
+    margin-left: -30px;
+    display: flex;
+    align-items: center;
+    padding: 0px 20px;
+    color: #fff;
+    background-color: #62ae2f;
+
+}
+#product h4{
+    color: #303130;
+    font-weight: 600;
+    padding: 10px 0px;
+}
+#product .text-area h6{
+    color: #303130;
+    font-weight: 600;
+    margin-right: 8px;
+}
+#product .text-area span{
+    color: rgb(148, 143, 143);
+}
+#product .col-md-2{
+    margin-left: 20px;
+}
+#product .card{
+    margin-top: 20px;
+}
+#product .top{
+    margin-top: 150px;
+}
+
+#fruits{
+    margin-top: 100px;
+    background:url("/Img/fruits.png");
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+
+#fruits h3{
+    color: #fff;
+}
+#fruits h2{
+    color: #fff;
+    font-weight: 600;
+    font-size: 40px;
+    padding: 20px 0px;
+}
+#fruits a{
+    text-transform: uppercase;
+    color: #fff;
+}
+#fruits .btn{
+    border: 2px solid #fff;
+}
+
+#blog{
+    margin: 100px 0px;
+}
+
+#blog .right h4{
+    color: #303130;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+#blog .fa-tag{
+    margin-left: 10px;
+}
+
+#blog .right span{
+    color: #7a7979;
+    
+}
+#blog .shadow{
+    padding: 10px 0px;
+}
+#blog .btn{
+    text-transform: uppercase;
+    color: #62ae2f;
+    margin-top: 30px;
+}
+#blog a{
+    border: 2px solid #62ae2f;
+}
+#blog .row{
+    margin-top: 100px;
+    margin-left: 80px;
+}
+#blog .last{
+    margin-left: 30px;
+}
+#blog .right{
+    margin-left: 60px;
+}
+
+#image img{
+    margin-left: 80px;
+}
+#image .d{
+    margin-left: 150px;
+}
+footer{
+    margin-top: 150px;
+    background:url("/Img/footer.png");
+    height: 70vh;
+    background-repeat: no-repeat;
+}
+footer .col-md-3{
+    margin-top: 150px;
+    color: #fff;
+    padding: 0px 50px;
+    border-right: 1px solid rgb(85, 79, 79);
+}
+footer .col-md-3:last-child{
+    border-right: none;
+    padding: 0px 10px;
+}
+footer .col-md-3:last-child p{
+    width: 200px;
+    line-height: 30px;
+}
+footer .search .btn{
+    background-color: #62ae2f;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    margin-left: -10px;
+    
+}
+footer .search{
+    margin-top: 50px;
+}
+footer input{
+    border: none;
+    outline: none;
+}
+footer .icon{
+    margin-top: 50px;
+    display: flex;
+    
+    font-size: 25px;
+}
+footer .icon .fa-twitter{
+    padding: 0px 20px;
+}
+footer .icon .fa-github{
+    padding-left: 20px;
+}
+footer .third{
+    line-height: 35px;
+}
+footer .footer-extra{
+    width: 100%;
+    background-color: #1c1c1c;
+    margin-top: 50px;
+    padding: 40px 0px;
+    border-top: 1px solid rgb(128, 123, 123);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    letter-spacing: 3px;
+}
